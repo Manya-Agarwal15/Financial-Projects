@@ -1,5 +1,6 @@
 # Financial-Projects
-Financial Analysis | Power BI | Excel Models | Real Estate
+Financial Analysis | Power BI | Excel Models | Real Estate 
+
 The projects showcase analytical frameworks and reporting templates used for
 areas such as:
 - Portfolio & Property Performance Reporting
